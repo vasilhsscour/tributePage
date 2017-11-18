@@ -3,3 +3,25 @@ body {
     background-size: 100%;
     color: #707070;
 }
+
+footer#second {
+    padding-left: 120px;
+    opacity: 0.70;
+}
+
+h6 {
+    padding-left: 160px;
+}
+
+h3 {
+    padding-left: 40px;
+}
+
+#second a {
+    color: #7070709c;
+}
+
+#second a:hover {
+    color: #707070;
+    font-style: italic;
+}
